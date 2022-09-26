@@ -7,3 +7,4 @@
   YARN_FLAGS = "--no-ignore-optional"
 
 
+directory = "functions/"
